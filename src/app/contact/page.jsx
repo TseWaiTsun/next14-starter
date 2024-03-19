@@ -1,5 +1,5 @@
-const Home = () => {
-  return <div>Hello World! Contact</div>;
+const ContactPage = () => {
+  return <div>Contact Page</div>;
 };
 
-export default Home;
+export default ContactPage;
